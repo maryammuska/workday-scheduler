@@ -1,4 +1,21 @@
-# workday-scheduluer
+# workday-scheduler
+
+Description:
+This is a simple calendar application that allows a user to save events for each hour of their work day.
+
+Application Functionality:
+When the application is launched, the current date is shown at the top of the page. When the user scrolls down, the user can see time blocks from 9 AM to 5 PM. Each time block is color-coded to indicate whether it is in the past, present or future. The user can click into a time block and enter an event. When the save button is clicked for a time block, the event text is saved in local storage and can be retrieved across browser sessions.
+
+Features
+HTML
+CSS
+Bootstrap
+jQuery
+Moment.js
+
+Screenshot of app:
+<img width="686" alt="Workday Scheduler" src="https://user-images.githubusercontent.com/101304518/198382326-28a4ec92-f11f-4f1f-a8af-360547e28e84.png">
+
 
 User Story
 
