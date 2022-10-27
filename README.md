@@ -13,7 +13,7 @@ Bootstrap
 jQuery
 Moment.js
 
-Screenshot of app:
+
 <img width="686" alt="Workday Scheduler" src="https://user-images.githubusercontent.com/101304518/198382326-28a4ec92-f11f-4f1f-a8af-360547e28e84.png">
 
 
